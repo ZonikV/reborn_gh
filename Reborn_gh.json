@@ -3,7 +3,7 @@
     "settings": {
         "OpenButton": 5,
         "HideIcon": false,
-        "HideIconAfter": 60,
+        "HideIconAfter": 600,
         "IconURL": "https://i.imgur.com/4wYpQAU.png",
         "DisableIconText": false,
         "IconPosition": 2,
@@ -17,7 +17,7 @@
         "tab1": {
           "layout": 1,
           "buttontext": "О проекте",
-          "title1": "**Добро пожаловать на проект Greyhound Reborn**",
+          "title1": "Добро пожаловать на проект Greyhound Reborn",
           "text1": "This mod is in an early stage.\nYou can expect bugs!\n\n\nThis UI is unedited. Pls contact an Admin.\n\nAre you an Admin?\nPls click on the buttons down below to get to the Wiki page for a setup guide. For Support pls join the discord\n\nYou can find a simple explanation in the settings tab.",
           "imageurl": "https://i.imgur.com/HJALf1X.png"
         }
@@ -57,24 +57,6 @@
         "link4": {
           "text": "Youtube",
           "url": "https://www.youtube.com/c/RodnojBrat?sub_confirmation=1"
-        }
-      },
-      {
-        "link5": {
-          "text": "Github",
-          "url": "https://github.com"
-        }
-      },
-      {
-        "link6": {
-          "text": "Imgur",
-          "url": "https://imgur.com"
-        }
-      },
-      {
-        "link7": {
-          "text": "Example JSON",
-          "url": "https://raw.githubusercontent.com/DC-Modding/WBUI2-Wiki/main/example.json"
         }
       }
     ]
