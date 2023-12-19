@@ -26,9 +26,9 @@
         "tab2": {
           "layout": 2,
           "buttontext": "Настройки",
-          "title1": "INI settings:",
+          "title1": "Настройки проекта:",
           "text1": "В разработке",
-          "title2": "JSON settings:",
+          "title2": "Моды на проекте:",
           "text2": "В разработке.",
           "imageurl": ""
         }
